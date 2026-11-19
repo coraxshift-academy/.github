@@ -6,7 +6,7 @@
 
 **Friendly, hands-on DevOps, Cloud & Linux training, from your very first command to your first real deployment.**
 
-[🌐 Website](https://coraxshift-academy.github.io/coraxshift-devops-academy/) ·
+[🌐 Website](https://coraxshift-academy.github.io/) ·
 [▶️ YouTube](https://www.youtube.com/@CoraxShift-h6r) ·
 [📸 Instagram](https://www.instagram.com/coraxshift/) ·
 [𝕏 X](https://x.com/Coraxshift) ·
@@ -51,7 +51,7 @@ Success isn't measured by website visitors. It's measured by how many people bec
 
 ## 🚀 Start learning
 
-👉 Visit the **[CoraxShift learning portal](https://coraxshift-academy.github.io/coraxshift-devops-academy/)** and follow us on social media for tips, lessons and new course announcements.
+👉 Visit the **[CoraxShift learning portal](https://coraxshift-academy.github.io/)** and follow us on social media for tips, lessons and new course announcements.
 
 <div align="center">
 
