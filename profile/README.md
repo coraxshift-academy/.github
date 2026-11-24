@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to CoraxShift DevOps Academy
+# 👋 Welcome to CoraxShift Academy
 
 ### Learn. Build. Deploy. Grow.
 
@@ -28,13 +28,12 @@ No tech background needed. We explain every command, show you what you should se
 
 | | |
 |---|---|
-| 🐧 **Linux & System Administration** | Get comfortable in the terminal and run real servers |
-| 🔀 **Git & Collaboration** | Track your work and build like a real team |
-| 🐳 **Docker & Kubernetes** | Package apps and run them at scale |
-| ☁️ **Cloud (AWS, Azure, GCP)** | Deploy to the platforms employers use |
-| 🏗️ **Terraform & Ansible** | Build and manage infrastructure with code |
-| ⚙️ **CI/CD & Automation** | Ship changes safely and automatically |
-| 📈 **Monitoring & Observability** | Know when things break, and why |
+| 🐧 **Linux & Bash** | Get comfortable in the terminal and automate with scripts |
+| 🔀 **Git & GitHub** | Branches, pull requests and real team collaboration |
+| 🏗️ **Terraform & Ansible** | Infrastructure and configuration as code |
+| 🐳 **Docker & Kubernetes** | Package apps and run them reliably |
+| ☁️ **AWS** | Cloud foundations and cost-safe deployments |
+| ⚙️ **CI/CD & Monitoring** | Ship changes safely and know when things break |
 
 ## 🛠️ How it works
 
@@ -51,7 +50,7 @@ Success isn't measured by website visitors. It's measured by how many people bec
 
 ## 🚀 Start learning
 
-👉 Join the founding waitlist: founding seats are limited, and members get pricing and the start date first. More details on the website.
+👉 **[Join the founding waitlist](https://forms.gle/vLZrpkL68evBRUzw7)**: founding seats are limited, and members get pricing and the start date first. More details on the **[website](https://coraxshift-academy.github.io/)**.
 
 <div align="center">
 
