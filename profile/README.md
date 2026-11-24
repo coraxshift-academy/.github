@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to CoraxShift DevOps Academy
+# 👋 Welcome to Coraxshift DevOps Academy
 
 ### Learn. Build. Deploy. Grow.
 
