@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to CoraxShift Academy
+# 👋 Welcome to CoraxShift DevOps Academy
 
 ### Learn. Build. Deploy. Grow.
 
@@ -51,7 +51,7 @@ Success isn't measured by website visitors. It's measured by how many people bec
 
 ## 🚀 Start learning
 
-👉 Visit the **[CoraxShift learning portal](https://coraxshift-academy.github.io/)** and follow us on social media for tips, lessons and new course announcements.
+👉 Join the founding waitlist: founding seats are limited, and members get pricing and the start date first. More details on the website.
 
 <div align="center">
 
