@@ -20,7 +20,7 @@
 
 That's exactly where we start.
 
-At CoraxShift, you don't just watch videos or memorize definitions. You **build one real project**, step by step, **break it on purpose**, and **fix it together**, until DevOps finally clicks.
+At Coraxshift, you don't just watch videos or memorize definitions. You **build one real project**, step by step, **break it on purpose**, and **fix it together**, until DevOps finally clicks.
 
 No tech background needed. We explain every command, show you what you should see, and tell you what to do when something goes wrong.
 
